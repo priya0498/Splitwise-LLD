@@ -1,0 +1,5 @@
+# Set the default behavior for line endings
+* text=auto
+
+# Explicitly declare files that should use LF on checkout
+*.xml text eol=lf
